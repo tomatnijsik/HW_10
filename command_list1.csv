@@ -1,0 +1,124 @@
+    1  vlear
+    2  clear
+    3  cd e/repozytorij
+    4  cd E:\repozytorij
+    5  clear
+    6  man cd
+    7  help cd
+    8  man gitclone
+    9  /help gitclone
+   10  help gitclone
+   11  info gitclone
+   12  man -k gitclone
+   13  git clone
+   14  clear
+   15  cd \e\repozytorij
+   16  cd E:\repozytorij
+   17  clear
+   18  help dir
+   19  man -k ls
+   20  help man
+   21  info man
+   22  cls
+   23  clear
+   24  man -k dir
+   25  info dir
+   26  clear
+   27  cd /e/repozytorij/
+   28  clear
+   29  cd /e/World_of_Tanks_EU/
+   30  cd /e/repozytorij/
+   31  clear]
+   32  clear
+   33  help ls
+   34  ls
+   35  help dir
+   36  dir
+   37  dir -p
+   38  ls
+   39  dir
+   40  clear
+   41  ls
+   42  ls -p -N
+   43  clear
+   44  help
+   45  dirs
+   46  help dir
+   47  dir
+   48  dirs -clpv
+   49  clear
+   50  help mkdir
+   51  cd e/
+   52  cd e/repozytorij
+   53  cd /e/
+   54  cd repozytorij
+   55  clear
+   56  help ls
+   57  clear
+   58  ls
+   59  clear
+   60  git clone https://github.com/tomatnijsik/HW_10.git
+   61  cd HW_10
+   62  touch text_ignore.txt
+   63  nano.gitignore
+   64  vim.gitignore
+   65  help vim
+   66  help nano
+   67  git status
+   68  git status
+   69  git status
+   70  git add .gitignore
+   71  git status
+   72  commit
+   73  touch main_text.txt
+   74  git add main_text
+   75  git add main_text.txt
+   76  git status
+   77  git commit
+   78  git config --global user.email nikitabilan31@gmail.com
+   79  git config --global user.name Nikita
+   80  git checkout -b new_branch
+   81  touch develop_test.txt
+   82  git status
+   83  git add develop_test.txt
+   84  git status
+   85  git commit
+   86  cd /e/repozytorij/
+   87  cd HW_10/
+   88  touch text_ignore.txt
+   89  git status
+   90  gir rm develop_test
+   91  git rm develop_test.txt
+   92  git rm main_text.txt
+   93  git status
+   94  git commit
+   95  git clone https://github.com/tomatnijsik/HW_10.git
+   96  cd /e/repozytorij
+   97  cd HW_10
+   98   git clone https://github.com/tomatnijsik/HW_10.git
+   99  cd HW_10/
+  100  touch text_ignore.txt
+  101  git status
+  102  git add .gitignore
+  103  git status
+  104  git commit -m text_ignore
+  105  touch main_test.txt
+  106  git add main_test.txt
+  107  git commit -m main_test
+  108  git checkout -b new_branch
+  109  touch develop_test.txt
+  110  git status
+  111  git add develop_test.txt
+  112  git commit -m develop_test
+  113  git status
+  114  git add develop_test.txt
+  115  git commit -m develop_test again
+  116  git commit -m develop_test.again
+  117  checkout main
+  118  git checkout main
+  119  git merge new_branch
+  120  git log
+  121  help rm
+  122  help
+  123  git status
+  124  history > command_list1.csv
